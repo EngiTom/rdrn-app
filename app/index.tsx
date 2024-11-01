@@ -110,7 +110,7 @@ export default function Index() {
           >
             <Text 
               style={styles.buttonText}
-              onPress={() => navigation.navigate('details')}
+              onPress={() => navigation.navigate('login')}
             >
               Get Started →
             </Text>
